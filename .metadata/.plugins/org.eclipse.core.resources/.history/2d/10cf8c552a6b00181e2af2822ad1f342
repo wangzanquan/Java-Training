@@ -1,0 +1,20 @@
+package com.company.MethodSample;
+
+public class MethodTest {
+
+	public static void main(String[] args) {
+		
+		
+		
+
+	}
+	public static int getSumOfAmount(int num1, int num2) {
+		int sum = num1 + num2;
+		return sum;
+	}
+	
+	public static void getSum(int num4, int num3) {
+		int sumOfNum = num3 + num4;
+	}
+
+}

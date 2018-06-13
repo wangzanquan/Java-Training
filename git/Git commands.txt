@@ -1,0 +1,12 @@
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
+
+Full  Git and GitHub Course - http://bit.ly/2GoS7NW
+Basic Git command List - http://www.codebind.com/linux-tutoria...
